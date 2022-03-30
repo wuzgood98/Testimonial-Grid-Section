@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/wuzgood98/Testimonial-Grid-Section/)
-- Live Site URL: [Add live site URL here](https://wuzgood98.github.io/Testimonial-Grid-Section/)
+- Solution URL: [Solution](https://github.com/wuzgood98/Testimonial-Grid-Section/)
+- Live Site URL: [Live Site](https://wuzgood98.github.io/Testimonial-Grid-Section/)
 
 ### Built with
 
